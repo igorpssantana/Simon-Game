@@ -1,3 +1,3 @@
 Projeto do jogo Simon ATUALIZADO :)
 ##
-Teste agora => https://igorpssantana.github.io/Simon-Game/
+Teste agora => https://igorpssantana.github.io/Simon-Game-ATT/
